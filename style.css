@@ -4,7 +4,7 @@
 }
 
 body {
-    background-image: url('./elkhawarizmi.jpg');
+    background-image: url('elkhawarizmi.jpg');
     background-size: cover;
     background-position: center center;
     display: flex;
